@@ -1,0 +1,19 @@
+{
+  "name": "Malumian Finance",
+  "short_name": "Malumian Finance",
+  "display": "standalone",
+  "description": "Finance app.",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/assets/images/favicons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/images/favicons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
